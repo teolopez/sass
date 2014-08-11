@@ -14,10 +14,10 @@ A Sass startup/barebones package for web projects.
 
 ## Categories Defined
 
-*Base* rules are the defaults. They are almost exclusively single element selectors but it could include attribute selectors, pseudo-class selectors, child selectors or sibling selectors.
+**Base** rules are the defaults. They are almost exclusively single element selectors but it could include attribute selectors, pseudo-class selectors, child selectors or sibling selectors.
 
-*Layout* rules divide the page into sections. Layouts hold one or more modules together.
+**Layout** rules divide the page into sections. Layouts hold one or more modules together.
 
-*Modules* are the reusable, modular parts of our design. They are the callouts, the sidebar sections, the product lists and so on.
+**Modules** are the reusable, modular parts of our design. They are the callouts, the sidebar sections, the product lists and so on.
 
-*Tools* are things such as functions, mixins, or any other helpers for when using foundation by zurb or bootstrap.
+**Tools** are things such as functions, mixins, or any other helpers for when using foundation by zurb or bootstrap.
