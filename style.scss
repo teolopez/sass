@@ -1,0 +1,33 @@
+/*
+ * SMACSS + SCSS starter v1.0
+ * Inspired by SMACSS http://smacss.com
+ * Author: @teo_lopez
+ * Date: August 11, 2014
+ *
+ * https://github.com/teolopez/sass
+ *
+ */
+
+/* Tools */
+@import "tools/functions";
+@import "tools/site-settings";
+@import "tools/mixins";
+@import "tools/helpers";
+
+/* Base */
+@import "base/normalize";
+@import "base/base";
+@import "base/form";
+
+/* Fonts */
+//@import "fonts/...";
+
+/* Layout */
+@import "layout/header";
+@import "layout/nav";
+@import "layout/footer";
+
+/* Modules */
+@import "modules/btn";
+@import "modules/icons";
+//@import "modules/animations";
