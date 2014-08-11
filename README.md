@@ -1,18 +1,18 @@
-*sass
+sass
 ====
 
 A Sass startup/barebones package for web projects.
 
 <p>Every project needs some organization. Throwing every new style you create onto the end of a single file would make finding things more difficult and would be very confusing for anybody else working on the project.</p>
 
-**There are four types of categories:
+##There are four types of categories:
 
 -Base
 -Layout
 -Module
 -Tools
 
-** Categories Defined
+## Categories Defined
 
 *Base* rules are the defaults. They are almost exclusively single element selectors but it could include attribute selectors, pseudo-class selectors, child selectors or sibling selectors.
 
