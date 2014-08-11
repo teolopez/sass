@@ -7,10 +7,10 @@ A Sass startup/barebones package for web projects.
 
 ##There are four types of categories:
 
--Base
--Layout
--Module
--Tools
+1. Base
+2. Layout
+3. Module
+4. Tools
 
 ## Categories Defined
 
